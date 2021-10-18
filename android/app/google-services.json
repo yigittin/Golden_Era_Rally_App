@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031003028296",
+    "project_id": "golden-era-rally",
+    "storage_bucket": "golden-era-rally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031003028296:android:27116080a999050f8e117d",
+        "android_client_info": {
+          "package_name": "com.golden_era_rally_pedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031003028296-7c09j55v0t5cpd93shu369iv9k3is5iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCog7WY8KfqCC7XuvUbgJiPKiymy-1gTG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031003028296-7c09j55v0t5cpd93shu369iv9k3is5iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
