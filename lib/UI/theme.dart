@@ -29,7 +29,7 @@ TextStyle get subHeadingStyle {
       textStyle: TextStyle(
           fontSize: 24,
           fontWeight: FontWeight.bold,
-          color: Get.isDarkMode ? Colors.grey[400] : Colors.grey));
+          color: Get.isDarkMode ? Colors.grey[400] : Colors.white));
 }
 
 TextStyle get headingStyle {

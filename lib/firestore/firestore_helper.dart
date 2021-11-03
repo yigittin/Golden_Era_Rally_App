@@ -12,12 +12,12 @@ class Cars {
     firestoreInstance.collection("Cars").get().then((querySnapshot) {
       //print(querySnapshot);
       querySnapshot.docs.forEach((value) {
-        print("Cars: results: value");
-        print(value.data());
+        //print("Cars: results: value");
+        //print(value.data());
       });
     }).catchError((onError) {
-      print("getCloudFirestoreCars: ERROR");
-      print(onError);
+      //print("getCloudFirestoreCars: ERROR");
+      //print(onError);
     });
   }
 }
