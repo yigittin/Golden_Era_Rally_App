@@ -8,7 +8,7 @@ class Cars {
   Future<dynamic> getCloudFirestoreUsers() async {
     print("getCloudFirestore");
 
-    //assumes you have a collection called "users"
+   
     firestoreInstance.collection("Cars").get().then((querySnapshot) {
       //print(querySnapshot);
       querySnapshot.docs.forEach((value) {
